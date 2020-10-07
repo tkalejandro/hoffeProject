@@ -1,0 +1,90 @@
+.jumbotron {
+    background-image: url("/img/double-bubble.png");
+}
+
+
+
+.container {
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+.c-Hoffe {
+    height: 270px; 
+}
+
+.b-Hoffe {
+    background: radial-gradient(rgb(255, 241, 241),#ffffff);
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+hr {
+    max-width: 20em;
+}
+
+.card {
+    max-width: 100%;
+    border: none;
+    padding: 2%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
+
+.stories img{
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.stories button{
+    margin-bottom: 1em;
+    padding-top: 0;
+}
+
+.btn {
+    border-radius: 25px;
+    margin: 5px;
+}
+
+.join img {
+    border-radius: 100px;
+}
+
+.sponsor img {
+    width: 85%;
+    padding: 5%;
+    margin: 5%;
+}
+
+.footer {
+    background: #161616;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+#footer-ul li a{
+    color: rgb(255, 255, 255);
+    opacity: 70%;
+    text-decoration: none;
+    font-size: 0.8em;
+    margin-top: -1em;
+        
+}
+
+#footer-ul li a:hover{
+    color: rgb(255, 255, 255);
+    opacity: 100%;
+    
+}
+
+.autor{
+    font-size: 0.8em;
+    background: #000000;
+}
+
